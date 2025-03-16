@@ -1,0 +1,23 @@
+[
+    {
+        "Title": "atomic habits",
+        "Author": "james clear",
+        "Year": 2018,
+        "Genre": "self-help",
+        "Read": true
+    },
+    {
+        "Title": "python",
+        "Author": "sana raheed",
+        "Year": 2018,
+        "Genre": "programming",
+        "Read": true
+    },
+    {
+        "Title": "travel-treat",
+        "Author": "shahid ali",
+        "Year": 2025,
+        "Genre": "exploring-travel",
+        "Read": true
+    }
+]
