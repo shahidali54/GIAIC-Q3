@@ -4,7 +4,7 @@ Welcome to my Python project portfolio created during *Quarter 3 of GIAIC (Gover
 
 ---
 
-## 🚀 Projects Included
+##  Projects Included
 
 | # | Project Name | Description |
 |--|--------------|-------------|
