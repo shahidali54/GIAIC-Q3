@@ -23,11 +23,11 @@ More projects are available in the respective folders.
 
 ```bash
 GIAIC-Q3/
-├── calculator/
-├── alarm-clock/
-├── quiz-app/
-├── bmi-calculator/
-├── password-generator/
+├── growth_mindset/
+├── unit-converter/
+├── password_strength_meter/
+├── Library Manager/
+├── Secure Data Encryption/
 └── README.md
 
 Each folder contains individual Python projects with clean code and comments.
