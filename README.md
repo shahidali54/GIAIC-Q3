@@ -12,7 +12,7 @@ Welcome to my Python project portfolio created during *Quarter 3 of GIAIC (Gover
 | 2 | unit-converter | A Streamlit-powered unit conversion tool that supports multiple categories including Length, Weight, etc.|
 | 3 | password_strength_meter | secure and interactive Streamlit app to evaluate password strength based on multiple criteria (length,digits, cases, special characters) |
 | 4 | Library Manager | a simple library management system that allows users to add, remove, edit, search, and filter books. |
-| 5 | Password Generator | Secure password generator with randomization logic. |
+| 5 | Secure Data Encryption | encrypts and stores data securely using a passkey. It uses Streamlit for the interface and Fernet. |
 | ... | ... | ... |
 
 More projects are available in the respective folders.
