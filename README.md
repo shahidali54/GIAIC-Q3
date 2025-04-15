@@ -76,8 +76,6 @@ LinkedIn: www.linkedin.com/in/shahid-ali-64676a2ba
 
 Twitter: https://x.com/shahid_ali_0?t=gQSMNOPMt0nxvDlxh_VKMg&s=09
 
-
-
 ---
 
 Made with passion & Python!
