@@ -10,7 +10,7 @@ Welcome to my Python project portfolio created during *Quarter 3 of GIAIC (Gover
 |--|--------------|-------------|
 | 1 | growth_mindset | An interactive Streamlit-based data conversion and cleaning app,  |
 | 2 | unit-converter | A Streamlit-powered unit conversion tool that supports multiple categories including Length, Weight, etc.|
-| 3 | Quiz App | Terminal-based quiz app using lists, dictionaries, and conditionals. |
+| 3 | password_strength_meter | secure and interactive Streamlit app to evaluate password strength based on multiple criteria (length,digits, cases, special characters) |
 | 4 | BMI Calculator | Calculates Body Mass Index based on user input. |
 | 5 | Password Generator | Secure password generator with randomization logic. |
 | ... | ... | ... |
