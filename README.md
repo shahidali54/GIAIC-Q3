@@ -8,8 +8,8 @@ Welcome to my Python project portfolio created during *Quarter 3 of GIAIC (Gover
 
 | # | Project Name | Description |
 |--|--------------|-------------|
-| 1 | growth_mindset | An interactive Streamlit-based data conversion and cleaning app, etc. |
-| 2 | Alarm Clock | Set an alarm using Python’s datetime module with a sound notification. |
+| 1 | growth_mindset | An interactive Streamlit-based data conversion and cleaning app,  |
+| 2 | unit-converter | A Streamlit-powered unit conversion tool that supports multiple categories including Length, Weight, etc.|
 | 3 | Quiz App | Terminal-based quiz app using lists, dictionaries, and conditionals. |
 | 4 | BMI Calculator | Calculates Body Mass Index based on user input. |
 | 5 | Password Generator | Secure password generator with randomization logic. |
