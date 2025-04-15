@@ -8,7 +8,7 @@ Welcome to my Python project portfolio created during *Quarter 3 of GIAIC (Gover
 
 | # | Project Name | Description |
 |--|--------------|-------------|
-| 1 | Calculator | A simple CLI calculator that supports basic operations like addition, subtraction, etc. |
+| 1 | growth_mindset | An interactive Streamlit-based data conversion and cleaning app, etc. |
 | 2 | Alarm Clock | Set an alarm using Python’s datetime module with a sound notification. |
 | 3 | Quiz App | Terminal-based quiz app using lists, dictionaries, and conditionals. |
 | 4 | BMI Calculator | Calculates Body Mass Index based on user input. |
