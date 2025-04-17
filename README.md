@@ -31,7 +31,7 @@ GIAIC-Q3/
 └── README.md
 
 Each folder contains individual Python projects with clean code and comments.
-
+```
 
 ---
 
