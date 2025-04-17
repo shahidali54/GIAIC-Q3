@@ -50,11 +50,11 @@ Command-line interface (CLI)
 🛠 How to Run
 
 Clone the repo and navigate into any project folder to run:
-
+```sh
 git clone https://github.com/shahidali54/GIAIC-Q3.git
-cd GIAIC-Q3/calculator
+cd GIAIC-Q3/growth_mindset
 python main.py
-
+```
 
 ---
 
