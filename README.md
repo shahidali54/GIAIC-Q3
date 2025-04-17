@@ -21,7 +21,7 @@ More projects are available in the respective folders.
 
 ## 📂 Folder Structure
 
-```bash
+---
 GIAIC-Q3/
 ├── growth_mindset/
 ├── unit-converter/
