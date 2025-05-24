@@ -98,5 +98,5 @@ elif choice == "Login":
         if master_pass == "admin123": 
             st.session_state.failed_attempts = 0
             st.success("✅ Reauthorized. Try again now.")
-        else:
+        else: 
             st.error("❌ Wrong master password.")
