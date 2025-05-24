@@ -17,7 +17,7 @@ if "dark_mode" not in st.session_state:
 # Toggle Dark Mode Button
 if st.button("🌙 Dark Mode"):
     st.session_state.dark_mode = not st.session_state.dark_mode  # Toggle state
-
+ 
 # Custom CSS for full dark mode
 dark_style = """
     <style>
