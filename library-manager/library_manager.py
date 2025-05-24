@@ -15,7 +15,7 @@ def load_library():
                 library = []
     else:
         library = []
-
+ 
 def save_library():
     with open(library_file, "w") as file:
         json.dump(library, file, indent=4)
