@@ -11,6 +11,7 @@ s = Student("Shahid", 95)
 s.display()
 
 
+
 # 2. Using cls
 class Counter:
     count = 0
