@@ -13,7 +13,7 @@ st.set_page_config(
 # Initialize session state for dark mode
 if "dark_mode" not in st.session_state:
     st.session_state.dark_mode = False  # Default is Light Mode
-
+ 
 # Toggle Dark Mode Button
 if st.button("🌙 Dark Mode"):
     st.session_state.dark_mode = not st.session_state.dark_mode  # Toggle state
