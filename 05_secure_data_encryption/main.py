@@ -1,3 +1,8 @@
+"""
+This code implements a secure data encryption system using Streamlit.
+It allows users to store and retrieve encrypted data using a unique passkey.
+"""
+
 import streamlit as st
 import hashlib
 from cryptography.fernet import Fernet
@@ -100,3 +105,4 @@ elif choice == "Login":
             st.success("✅ Reauthorized. Try again now.")
         else: 
             st.error("❌ Wrong master password.")
+
