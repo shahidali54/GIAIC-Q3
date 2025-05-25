@@ -10,8 +10,6 @@ class Student:
 s = Student("Shahid", 95)
 s.display()
 
-
-
 # 2. Using cls
 class Counter:
     count = 0
@@ -27,7 +25,6 @@ class Counter:
 Counter.increment()
 Counter.increment()
 Counter.display_count()
-
 
 # 3. Public Variables and Methods
 class Car:
