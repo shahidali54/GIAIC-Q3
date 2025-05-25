@@ -19,7 +19,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-
 # Assignment 01 Basics: Doubles the input number until it reaches 100 or more.
 
 def main():
