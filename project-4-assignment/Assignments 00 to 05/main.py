@@ -23,7 +23,6 @@ def main():
 if __name__ == '__main__':
     main()
 
-
 # Assignment 03: Fahrenheit to Celsius Converter
 
 def main():
