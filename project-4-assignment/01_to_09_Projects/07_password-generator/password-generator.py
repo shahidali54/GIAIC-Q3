@@ -16,4 +16,3 @@ for pwd in range(number):
         passwords += random.choice(characters)
 
     print(passwords)
-
