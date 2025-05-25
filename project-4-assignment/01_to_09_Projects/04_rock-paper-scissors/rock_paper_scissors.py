@@ -17,5 +17,6 @@ def is_win(player, opponent):
         (player == 'scissors' and opponent == 'paper') or \
         (player == 'paper' and opponent == 'rock'):
         return True
+ 
     
 print(play())
