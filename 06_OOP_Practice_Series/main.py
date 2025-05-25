@@ -77,6 +77,7 @@ log = Logger()
 del log
 
 
+
 # 7. Access Modifiers: Public, Private, Protected
 class Employee:
     def __init__(self, name, salary, ssn):
