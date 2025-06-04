@@ -175,4 +175,8 @@ with tab2:
 # Footer
 st.markdown("--------------------------------")
 st.markdown("Made with ❤️ by Shahid Ali")
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> d7cc499768b54f50cc3151e63c11a84e76875ada
