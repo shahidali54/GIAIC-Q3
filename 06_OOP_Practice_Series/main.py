@@ -304,9 +304,3 @@ class Countdown:
 
 for num in Countdown(5):
     print(num)  
-
-<<<<<<< HEAD
-
-=======
-
->>>>>>> d7cc499768b54f50cc3151e63c11a84e76875ada
