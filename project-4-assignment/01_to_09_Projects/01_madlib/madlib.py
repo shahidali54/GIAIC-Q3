@@ -16,8 +16,3 @@ The journey was tough, but totally worth it — because real coders never quit! 
 """
 
 print(story)
-<<<<<<< HEAD
-
-=======
-
->>>>>>> d7cc499768b54f50cc3151e63c11a84e76875ada
