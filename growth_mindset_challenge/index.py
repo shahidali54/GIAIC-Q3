@@ -96,8 +96,3 @@ if uploaded_files:
             )
 
     st.success("🎉 All files processed!")
-<<<<<<< HEAD
-
-=======
-
->>>>>>> d7cc499768b54f50cc3151e63c11a84e76875ada
