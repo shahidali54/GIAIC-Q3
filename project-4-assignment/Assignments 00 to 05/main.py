@@ -69,3 +69,12 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# Assignment 06: Circle Area Calculation
+def main():
+    
+    radius = float(input("What is the radius of the circle? "))
+
+    area = 3.14 * radius ** 2
+
+    print(f"The area of the circle is {area}")
