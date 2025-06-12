@@ -23,3 +23,5 @@ def computer_guess(x):
     print(f"Congrats! The computer guessed your number, {guess}, correctly!")
 
 computer_guess(10)
+#         if user_guess == "higher":
+#             if user_number > computer_number:
