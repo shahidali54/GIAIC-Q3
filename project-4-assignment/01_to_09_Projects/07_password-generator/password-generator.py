@@ -16,3 +16,4 @@ for pwd in range(number):
         passwords += random.choice(characters)
 
     print(passwords)
+print("\nThank you for using the Password Generator!")
