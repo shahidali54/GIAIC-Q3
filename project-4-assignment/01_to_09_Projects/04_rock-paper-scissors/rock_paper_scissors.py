@@ -19,3 +19,5 @@ def is_win(player, opponent):
         return True
  
 print(play())
+# This code implements a simple rock-paper-scissors game where the user plays against the computer.
+# The user inputs their choice, and the computer randomly selects one of the three options.
