@@ -305,3 +305,13 @@ class Countdown:
 for num in Countdown(5):
     print(num)
 
+
+# 22. Context Managers
+# from contextlib import contextmanager
+# @contextmanager
+# def managed_file(file_name):
+#     try:
+#         f = open(file_name, 'w')
+#         yield f
+#     finally:
+#         f.close()
