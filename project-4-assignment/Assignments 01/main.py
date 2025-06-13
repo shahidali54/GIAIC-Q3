@@ -170,7 +170,6 @@ if __name__ == "__main__":
 
 
 # Assignments 03 intermediate: List Practice
-
 def main():
     fruit_list = ["apple", "banana", "orange", "grape", "pineapple"]
     print(len(fruit_list))
@@ -183,7 +182,6 @@ if __name__ == "__main__":
 
 
 # Assignments 04 intermediate: Index Game
-
 def access_element(lst, index):
 
     if 0 <= index < len(lst):
@@ -241,3 +239,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
