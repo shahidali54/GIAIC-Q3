@@ -25,3 +25,10 @@ def computer_guess(x):
 computer_guess(10)
 #         if user_guess == "higher":
 #             if user_number > computer_number:
+#                 print("You guessed correctly!")
+#             else:
+#                 print("You guessed wrong!")
+#         else:
+#             if user_number < computer_number:
+#                 print("You guessed correctly!")#             else:
+#                 print("You guessed wrong!")
