@@ -17,3 +17,7 @@ def guess(x):
 guess(10)
 # Uncomment the line below to test with a different range
 # guess(100)  # You can change the range by passing a different number
+
+
+# Uncomment the line below to test with a different range
+# guess(1000)  # You can change the range by passing a different number
