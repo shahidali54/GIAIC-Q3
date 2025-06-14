@@ -16,11 +16,7 @@ for pwd in range(number):
         passwords += random.choice(characters)
 
     print(passwords)
+print("\nPasswords generated successfully!")
+print("You can now use these passwords for your accounts.")
 print("\nThank you for using the Password Generator!")
 
-
-#     for round_number in range(1, NUM_ROUNDS + 1):
-#         secret_number = random.randint(MIN_VALUE, MAX_VALUE)
-#         guess = int(input(f"Round {round_number}: Guess a number between {MIN_VALUE} and {MAX_VALUE}: "))
-#         if guess == secret_number:
-#             print("Correct! You guessed the number.")
