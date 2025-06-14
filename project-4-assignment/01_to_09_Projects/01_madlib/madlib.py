@@ -16,6 +16,4 @@ The journey was tough, but totally worth it — because real coders never quit! 
 """
 
 print(story)
-print("🎉 Your Coder's Tale is ready! Hope you enjoyed the adventure! 🌈")
 
-# Thank you for playing! Feel free to run the program again to create a new story.
