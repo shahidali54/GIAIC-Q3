@@ -187,7 +187,4 @@ def menu():
 if __name__ == "__main__":
     load_library()
     menu()
-# This code is a personal library manager that allows users to manage their book collection.
-# It includes functionalities to add, remove, edit, search, filter, display books, view statistics, and export the library to a CSV file.
-# The library is stored in a JSON file, and the program provides a menu-driven interface for user interaction.
-#         print("Good job! You played well.")
+
