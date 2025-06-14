@@ -16,4 +16,3 @@ st.write("- Underweight: BMI less than 18.5")
 st.write("- Normal weight: BMI between 18.5 and 24.9")
 st.write("- Overweight: BMI between 25 and 29.9")
 st.write("- Obesity: BMI 30 or greater")
-
