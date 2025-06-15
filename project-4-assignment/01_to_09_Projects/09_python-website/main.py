@@ -32,4 +32,4 @@ if uploaded_file is not None:
     if st.button("Generate Plot"):
         st.line_chart(filtered_df.set_index(x_column)[y_column])
 else:
-    st.write("Please upload a CSV file to get started.")
+    st.write("Please upload a CSV file to get started.") 
