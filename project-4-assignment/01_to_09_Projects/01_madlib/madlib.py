@@ -15,5 +15,4 @@ Through sleepless nights and cups of chai ☕, they finally began building their
 The journey was tough, but totally worth it — because real coders never quit! 💻🔥  
 """
 
-print(story)
-
+print(story) 
