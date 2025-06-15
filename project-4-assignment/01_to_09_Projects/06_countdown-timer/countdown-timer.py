@@ -12,5 +12,4 @@ def countdown(t):
 
 t = input("Enter The Time In Seconds: ")
 
-countdown(int(t))
-
+countdown(int(t)) 
