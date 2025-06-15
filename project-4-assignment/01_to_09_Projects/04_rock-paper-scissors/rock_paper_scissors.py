@@ -18,4 +18,4 @@ def is_win(player, opponent):
         (player == 'paper' and opponent == 'rock'):
         return True
  
-print(play())
+print(play()) 
