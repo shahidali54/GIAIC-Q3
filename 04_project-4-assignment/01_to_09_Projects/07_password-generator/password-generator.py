@@ -19,3 +19,5 @@ for pwd in range(number):
 print("\nPasswords generated successfully!")
 print("You can now use these passwords for your accounts.")
 print("\nThank you for using the Password Generator!") 
+
+# This code generates a specified number of random passwords with a given length using a mix of characters.
