@@ -13,3 +13,4 @@ def countdown(t):
 t = input("Enter The Time In Seconds: ")
 
 countdown(int(t)) 
+# This code implements a simple countdown timer that takes user input in seconds and counts down to zero.
