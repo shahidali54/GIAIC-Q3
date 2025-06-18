@@ -105,3 +105,5 @@ elif choice == "Login":
             st.success("✅ Reauthorized. Try again now.")
         else: 
             st.error("❌ Wrong master password.") 
+
+# This is a simple master password check for demonstration purposes.
