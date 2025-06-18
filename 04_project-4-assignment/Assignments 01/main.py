@@ -239,3 +239,5 @@ def main():
 
 if __name__ == "__main__":
     main() 
+
+# Assignments 05 intermediate: Simple Calculator
