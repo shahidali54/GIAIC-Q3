@@ -33,3 +33,4 @@ if uploaded_file is not None:
         st.line_chart(filtered_df.set_index(x_column)[y_column])
 else:
     st.write("Please upload a CSV file to get started.") 
+# This code creates a simple data dashboard using Streamlit, allowing users to upload a CSV file, preview the data, filter it, and plot selected columns.
