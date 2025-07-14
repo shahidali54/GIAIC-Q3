@@ -73,6 +73,7 @@ GitHub: https://github.com/shahidali54
 
 LinkedIn: www.linkedin.com/in/shahid-ali-64676a2ba
 
+Instagram: https://www.instagram.com/@0xshahidali?xmt=AQF0dKMM_KKJI4nTuJN7ZyGIf6wiH1v3A_EARKzdJ11p7aY
 
 Twitter: https://x.com/shahid_ali_0?t=gQSMNOPMt0nxvDlxh_VKMg&s=09
 
