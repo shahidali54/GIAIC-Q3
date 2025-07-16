@@ -64,7 +64,6 @@ python main.py
 
 If you found this repository helpful, consider giving it a star — it motivates me to build and share more awesome projects!
 
-
 ---
 
 📬 Connect with Me
