@@ -1,4 +1,4 @@
-# GIAIC Quarter 3 Projects – Python Portfolio
+# GIAIC Quarter 3 Sir Zia Khan's Projects 
 
 Welcome to my Python project portfolio created during *Quarter 3 of GIAIC (Governor’s Initiative for AI and Computing)*. This repository includes a variety of mini-projects, assignments, and hands-on Python implementations that demonstrate my learning and skills in core Python concepts.
 
